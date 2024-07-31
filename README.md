@@ -44,7 +44,7 @@ This script downloads all notes and notebooks from Evernote, handles pagination,
    Execute the script using Python:
 
    ```bash
-   python evernote_backup.py
+   python download_evernote.py
    ```
 
 4. **Backup Structure**
